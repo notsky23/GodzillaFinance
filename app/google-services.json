@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503182260888",
+    "project_id": "godzillafinance-2014b",
+    "storage_bucket": "godzillafinance-2014b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503182260888:android:fecbb7670e26e7ba3beeed",
+        "android_client_info": {
+          "package_name": "com.example.godzillafinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503182260888-k9je1f9i15nrk77hum57gnh3o4t88ubt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClV8vHz0W2GKcEdEKG6fB-YguMpGMxyHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503182260888-k9je1f9i15nrk77hum57gnh3o4t88ubt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

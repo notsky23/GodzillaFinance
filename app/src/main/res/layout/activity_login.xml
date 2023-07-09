@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".LoginActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="259dp"
+        android:src="@drawable/applogo" />
+
+    <EditText
+        android:id="@+id/EmailId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your email"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:inputType="textEmailAddress"
+        android:textColorHint="#000"
+        />
+    <EditText
+        android:id="@+id/Password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your password"
+        android:textColor="#000"
+        android:inputType="textPassword"
+        android:textSize="20sp"
+        android:textColorHint="#000"
+        />
+<ProgressBar
+    android:id="@+id/ProgressBar"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:visibility="gone"
+    />
+    <Button
+        android:id="@+id/LoginButton"
+        android:layout_width="371dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Login"
+        android:textAllCaps="false" />
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content">-->
+
+        <TextView
+            android:id="@+id/SignUpTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0dp"
+            android:gravity="center"
+            android:text="New member? Sign Up" />
+
+        <TextView
+            android:id="@+id/Forgot"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Forgot password?" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/Call_image_view"
+            android:layout_width="86dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="52dp"
+            android:layout_marginEnd="52dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/Email_Image_View"
+            app:layout_constraintHorizontal_bias="0.15"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@drawable/call_1" />
+
+        <ImageView
+            android:id="@+id/Email_Image_View"
+            android:layout_width="76dp"
+            android:layout_height="55dp"
+            android:layout_marginEnd="52dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0"
+            app:srcCompat="@drawable/email_1" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

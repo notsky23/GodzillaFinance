@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">GodZillaFinance</string>
+    <string name="input_items">Input Items</string>
+    <string-array name="items">
+        <item>Select item</item>
+        <item>Education</item>
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Medicine</item>
+        <item>Shopping</item>
+        <item>House</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="date">
+        <item>Today</item>
+        <item>This Week</item>
+        <item>This Month</item>
+        <item>Last 7 Days</item>
+        <item>Last 30 Days</item>
+        <item>Last 3 Months</item>
+        <item>Year To Date</item>
+    </string-array>
+    <string-array name="limit">
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="tag">
+        <item>None</item>
+        <item>Business</item>
+        <item>Culture</item>
+        <item>Economy</item>
+        <item>Energy</item>
+        <item>News</item>
+        <item>Real Estate</item>
+        <item>Stock</item>
+        <item>Technology</item>
+    </string-array>
+
+</resources>
