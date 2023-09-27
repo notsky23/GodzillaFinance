@@ -37,8 +37,11 @@ Run the application in android studio
 
 ## Screenshots:- 
 
-### Full Application
-![Application](https://user-images.githubusercontent.com/65457905/190884831-1a8ec1fd-c39d-4bcd-9c0a-d9b558dfe44c.gif)
+<img width="305" alt="a" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/e6a34c32-551b-4326-bd9c-4c71a045ebf9">
+<img width="305" alt="a2" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/67691110-e98e-4dcb-971e-be1049535791">
+<img width="299" alt="a3" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/6b5f2bb7-9c9b-47c9-851a-24da709d7deb">
+<img width="292" alt="a4" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/a6094ab4-72c1-4aee-8b2f-21d1e1211c5c">
+<img width="1496" alt="a5" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/a0905351-d8d0-4465-bfd5-88c68d75e658">
 
 ### Game 
 ![GameGif (1)](https://user-images.githubusercontent.com/65457905/190884836-d34cd822-9f94-492c-9739-ee244b4505fc.gif)
@@ -48,8 +51,4 @@ Run the application in android studio
 ![InputValues](https://user-images.githubusercontent.com/65457905/190884739-5242296a-8c48-452b-bab2-2ad4fc81bdef.jpg)
 ![Analytics (3)](https://user-images.githubusercontent.com/65457905/190884570-b4ff3f15-9991-4452-8af3-c6d15e0719ef.jpg)
 
-### Other Activities
-![ViewAll](https://user-images.githubusercontent.com/65457905/190884752-4156004e-bccf-4a75-979f-dd2f33eea6fe.jpg)
-![BudgetActivity](https://user-images.githubusercontent.com/65457905/190884648-f368eb05-e2a6-47db-97c8-02939a4d4fe8.jpg)
-![Fetch1](https://user-images.githubusercontent.com/65457905/190884689-6aa6db9b-e958-457a-9ebd-b5d6dbdb809f.jpg)
 
