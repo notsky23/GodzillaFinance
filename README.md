@@ -43,8 +43,6 @@ Run the application in android studio
 <img width="292" alt="a4" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/a6094ab4-72c1-4aee-8b2f-21d1e1211c5c">
 <img width="1496" alt="a5" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/a0905351-d8d0-4465-bfd5-88c68d75e658">
 
-### Game 
-![GameGif (1)](https://user-images.githubusercontent.com/65457905/190884836-d34cd822-9f94-492c-9739-ee244b4505fc.gif)
 
 ### Dashboard
 ![DashBoard](https://user-images.githubusercontent.com/65457905/190884727-d71e4519-0a54-490a-8e4e-8e826ba998f9.jpg)
