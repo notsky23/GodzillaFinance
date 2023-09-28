@@ -36,6 +36,11 @@ Run the application in android studio
 4. Internet connection for login and Sign up.
 
 ## Screenshots:- 
+<img width="305" alt="a1" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/58482413-1716-4419-8ff8-f837522bf9e9">
+<img width="301" alt="a2" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/ea706ba3-6f52-452e-b8a9-7c89318205ca">
+<img width="310" alt="a3" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/19d763ef-e467-48f7-b52b-9f1782fd4082">
+<img width="321" alt="a4" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/f16e9100-768f-4ab3-a385-a29a40727bb1">
+<img width="1496" alt="a6" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/a279b968-9709-45e3-925e-d97305072f53">
 
 <img width="305" alt="a" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/e6a34c32-551b-4326-bd9c-4c71a045ebf9">
 <img width="305" alt="a2" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/67691110-e98e-4dcb-971e-be1049535791">
