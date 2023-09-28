@@ -49,9 +49,5 @@ Run the application in android studio
 <img width="1496" alt="a5" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/a0905351-d8d0-4465-bfd5-88c68d75e658">
 
 
-### Dashboard
-![DashBoard](https://user-images.githubusercontent.com/65457905/190884727-d71e4519-0a54-490a-8e4e-8e826ba998f9.jpg)
-![InputValues](https://user-images.githubusercontent.com/65457905/190884739-5242296a-8c48-452b-bab2-2ad4fc81bdef.jpg)
-![Analytics (3)](https://user-images.githubusercontent.com/65457905/190884570-b4ff3f15-9991-4452-8af3-c6d15e0719ef.jpg)
 
 
