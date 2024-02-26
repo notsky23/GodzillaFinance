@@ -23,7 +23,7 @@ Features of the application include the following:-
 11) Used Jira for managing the team progress thereby identifying and negating the roadblocks in the development process.
 
 ### Installation
-git clone https://github.com/ameyagidh/GodZillaFinance_2.git
+git clone this repo
 or download the zip file then 
 Unzip the file 
 Run the application in android studio
