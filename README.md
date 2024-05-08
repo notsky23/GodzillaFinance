@@ -37,8 +37,8 @@ Run the application in android studio
 
 ## Screenshots:- 
 <img width="305" alt="a1" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/67b93c98-1c9c-4581-bd43-e168fc96cbf6">
-<img width="301" alt="a2" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/ea706ba3-6f52-452e-b8a9-7c89318205ca">
-<img width="310" alt="a3" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/19d763ef-e467-48f7-b52b-9f1782fd4082">
+<img width="301" alt="a2" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/c0fabd40-bd3f-4dff-856d-861de836b568">
+<img width="310" alt="a3" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/cf41650d-ce5c-48e3-91e4-3f74c103120c">
 <img width="321" alt="a4" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/f16e9100-768f-4ab3-a385-a29a40727bb1">
 <img width="1496" alt="a6" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/a279b968-9709-45e3-925e-d97305072f53">
 
