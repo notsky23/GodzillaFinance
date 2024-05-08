@@ -39,7 +39,5 @@ Run the application in android studio
 <img width="305" alt="a1" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/67b93c98-1c9c-4581-bd43-e168fc96cbf6">
 <img width="301" alt="a2" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/c0fabd40-bd3f-4dff-856d-861de836b568">
 <img width="310" alt="a3" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/cf41650d-ce5c-48e3-91e4-3f74c103120c">
-<img width="321" alt="a4" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/a10e7968-ef87-4926-9e6e-3ab5008fd615">
-
-
+<img width="1496" alt="a4" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/a10e7968-ef87-4926-9e6e-3ab5008fd615">
 
