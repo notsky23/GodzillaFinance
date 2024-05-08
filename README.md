@@ -39,14 +39,7 @@ Run the application in android studio
 <img width="305" alt="a1" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/67b93c98-1c9c-4581-bd43-e168fc96cbf6">
 <img width="301" alt="a2" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/c0fabd40-bd3f-4dff-856d-861de836b568">
 <img width="310" alt="a3" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/cf41650d-ce5c-48e3-91e4-3f74c103120c">
-<img width="321" alt="a4" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/f16e9100-768f-4ab3-a385-a29a40727bb1">
-<img width="1496" alt="a6" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/a279b968-9709-45e3-925e-d97305072f53">
-
-<img width="305" alt="a" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/e6a34c32-551b-4326-bd9c-4c71a045ebf9">
-<img width="305" alt="a2" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/67691110-e98e-4dcb-971e-be1049535791">
-<img width="299" alt="a3" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/6b5f2bb7-9c9b-47c9-851a-24da709d7deb">
-<img width="292" alt="a4" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/a6094ab4-72c1-4aee-8b2f-21d1e1211c5c">
-<img width="1496" alt="a5" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/a10e7968-ef87-4926-9e6e-3ab5008fd615">
+<img width="321" alt="a4" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/a10e7968-ef87-4926-9e6e-3ab5008fd615">
 
 
 
