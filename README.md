@@ -46,7 +46,9 @@ Run the application in android studio
 <img width="305" alt="a2" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/67691110-e98e-4dcb-971e-be1049535791">
 <img width="299" alt="a3" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/6b5f2bb7-9c9b-47c9-851a-24da709d7deb">
 <img width="292" alt="a4" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/a6094ab4-72c1-4aee-8b2f-21d1e1211c5c">
-<img width="1496" alt="a5" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/a0905351-d8d0-4465-bfd5-88c68d75e658">
+<img width="1496" alt="a5" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/a10e7968-ef87-4926-9e6e-3ab5008fd615">
+![image](https://github.com/notsky23/GodzillaFinance/assets/98131995/a10e7968-ef87-4926-9e6e-3ab5008fd615)
+
 
 
 
