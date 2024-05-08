@@ -36,7 +36,7 @@ Run the application in android studio
 4. Internet connection for login and Sign up.
 
 ## Screenshots:- 
-<img width="305" alt="a1" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/58482413-1716-4419-8ff8-f837522bf9e9">
+<img width="305" alt="a1" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/67b93c98-1c9c-4581-bd43-e168fc96cbf6">
 <img width="301" alt="a2" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/ea706ba3-6f52-452e-b8a9-7c89318205ca">
 <img width="310" alt="a3" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/19d763ef-e467-48f7-b52b-9f1782fd4082">
 <img width="321" alt="a4" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/f16e9100-768f-4ab3-a385-a29a40727bb1">
@@ -47,9 +47,6 @@ Run the application in android studio
 <img width="299" alt="a3" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/6b5f2bb7-9c9b-47c9-851a-24da709d7deb">
 <img width="292" alt="a4" src="https://github.com/ameyagidh/GodzillaFinance/assets/65457905/a6094ab4-72c1-4aee-8b2f-21d1e1211c5c">
 <img width="1496" alt="a5" src="https://github.com/notsky23/GodzillaFinance/assets/98131995/a10e7968-ef87-4926-9e6e-3ab5008fd615">
-![image](https://github.com/notsky23/GodzillaFinance/assets/98131995/a10e7968-ef87-4926-9e6e-3ab5008fd615)
-
-
 
 
 
